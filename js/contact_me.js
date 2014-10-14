@@ -18,14 +18,14 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
-                type: "POST",
+                url: "//forms.brace.io/elliott.minns@me.com", 
+                method: "POST",
                 data: {
+                    _replyto: email,
                     name: name,
-                    phone: phone,
-                    email: email,
-                    message: message
+                    message: "name:" + name "\nemail: " + email + "\nphone" + phone + "\nmessage:" + message
                 },
+                dataType: "json"
                 cache: false,
                 success: function() {
                     // Success message
