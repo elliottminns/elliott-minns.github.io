@@ -18,8 +18,8 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "//forms.brace.io/elliott.minns@me.com", 
-                method: "POST",
+                url: "http://forms.brace.io/elliott.minns@me.com", 
+                type: "POST",
                 data: {
                     _replyto: email,
                     name: name,
