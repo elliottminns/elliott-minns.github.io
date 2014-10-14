@@ -25,7 +25,7 @@ $(function() {
                     name: name,
                     message: "name:" + name "\nemail: " + email + "\nphone" + phone + "\nmessage:" + message
                 },
-                dataType: "json"
+                dataType: "json",
                 cache: false,
                 success: function() {
                     // Success message
