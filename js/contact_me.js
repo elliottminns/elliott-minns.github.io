@@ -17,14 +17,15 @@ $(function() {
             if (firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
-            var fullMessage = "name:" + name + "\nemail: " + email + "\nphone" + phone + "\nmessage:" + message
             $.ajax({
                 url: "http://forms.brace.io/elliott.minns@me.com", 
                 type: "POST",
                 data: {
                     _replyto: email,
                     name: name,
-                    message: fullMessage
+                    email: email,
+                    phone: phone,
+                    message: message
                 },
                 dataType: "json",
                 cache: false,
