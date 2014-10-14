@@ -23,7 +23,7 @@ $(function() {
                 data: {
                     _replyto: email,
                     name: name,
-                    message: "name:" + name "\nemail: " + email + "\nphone" + phone + "\nmessage:" + message
+                    message: "name:" + name + "\nemail: " + email + "\nphone" + phone + "\nmessage:" + message
                 },
                 dataType: "json",
                 cache: false,
