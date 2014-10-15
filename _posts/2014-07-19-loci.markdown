@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 2
+title: Loci
+date: 2014-07-19
+img: loci.png
+alt: image-alt
+project-date: November 2013 - Present
+client: Loci
+client: Loci
+category: iOS & Node.js Development
+description: Loci loci loci
+link: https://itunes.apple.com/gb/app/loci-app-social-discovery/id785534870?mt=8
+client-link: http://lociapp.co
+---

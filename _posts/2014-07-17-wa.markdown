@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+title: What Apprenticeship?
+date: 2014-07-18
+img: wa.png
+alt: image-alt
+project-date: October 2013 - November 2013
+client: Open Doors Media
+category: iOS Development
+description: Loci loci loci
+link: https://itunes.apple.com/gb/app/loci-app-social-discovery/id785534870?mt=8
+client-link: http://lociapp.co
+---
