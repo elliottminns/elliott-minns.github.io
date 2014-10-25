@@ -443,3 +443,8 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+img#profile-picture {
+  width: 250px;
+  height: 250px;
+}
