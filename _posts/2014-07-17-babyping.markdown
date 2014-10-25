@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 4
+title: Baby Ping
+date: 2014-07-18
+img: babyping.png
+alt: image-alt
+project-date: March 2013 - November 2013
+client: Y-Cam Solutions
+category: iOS Development
+description: BabyPing
+link: https://itunes.apple.com/gb/app/babyping-video-baby-monitor/id460369332?mt=8
+client-link: http://www.babyping.com
+---

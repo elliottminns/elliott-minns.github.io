@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 5
+title: Packlinc
+date: 2014-07-18
+img: packlinc.png
+alt: image-alt
+project-date: March 2013 - May 2013
+client: Packlinc
+category: iOS Development
+description: Packlinc
+link: https://itunes.apple.com/gb/app/packlinc/id669096139?mt=8
+client-link: http://www.packlinc.com
+---

@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 6
+title: Crowd
+date: 2014-07-18
+img: crowd.png
+alt: image-alt
+project-date: November 2013 - Feburary 2013
+client: Crowd App Limited
+category: iOS Development
+description: Crowd
+link: https://itunes.apple.com/gb/app/crowd/id858791798?mt=8
+client-link: http://www.crowdapp.co
+---
