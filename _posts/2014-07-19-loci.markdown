@@ -9,7 +9,7 @@ project-date: November 2013 - Present
 client: Loci
 client: Loci
 category: iOS & Node.js Development
-description: Loci loci loci
+description: Loci is a hyper local app designed to give you information about venues and events currently happening around you location at that moment in time. It uses a number of API's and it's own Cloud engine, running a Node.js server, in order to achieve this. My role within the Loci team was based as the Mobile Tech Lead, with responsibilities in developing the iOS & Android applications and also the Node.js server. 
 link: https://itunes.apple.com/gb/app/loci-app-social-discovery/id785534870?mt=8
 client-link: http://lociapp.co
 ---

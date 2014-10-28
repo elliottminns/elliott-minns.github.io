@@ -7,8 +7,8 @@ img: packlinc.png
 alt: image-alt
 project-date: March 2013 - May 2013
 client: Packlinc
-category: iOS Development
-description: Packlinc
+category: iOS & Android Development
+description: Packlinc was my first project with a digital agency client based in Newcastle upon Tyne. The app used some extrordinary technology in order to produce a product that could read invisible watermarks on real life print. These invisible watermarks would allow the app to do some ordinary scanning such as display a webpage or a youtube video, or they could be used to display an overlay or augmented reality on to the users device, giving a detailed and rich experience to the user. Initially starting as a purely iOS project, the product was seen as successful and an Android equivilent was also then created by myself.
 link: https://itunes.apple.com/gb/app/packlinc/id669096139?mt=8
 client-link: http://www.packlinc.com
 ---

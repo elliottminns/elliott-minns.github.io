@@ -35,3 +35,12 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$(function() {
+    $('.portfolio-link').click(function() {
+        var title = $(this).data('title')
+        mixpanel.track("Portfolio item opened", {
+            "project": title
+        });
+    });
+});

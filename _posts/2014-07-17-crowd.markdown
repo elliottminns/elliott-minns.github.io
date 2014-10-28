@@ -7,8 +7,8 @@ img: crowd.png
 alt: image-alt
 project-date: November 2013 - Feburary 2013
 client: Crowd App Limited
-category: iOS Development
-description: Crowd
+category: iOS & Node.js Development
+description: Crowd is a project I worked on which allowed users to ask questions to other users of the app anonymously. The idea behind the product was that users could get opinions on items from other real life users, with it's intention to be used in logo or product design as well as being a tool for users to gain feedback on purchases or any other ideas that they came across. 
 link: https://itunes.apple.com/gb/app/crowd/id858791798?mt=8
 client-link: http://www.crowdapp.co
 ---

@@ -8,7 +8,7 @@ alt: image-alt
 project-date: March 2013 - November 2013
 client: Y-Cam Solutions
 category: iOS Development
-description: BabyPing
+description: BabyPing is the second product I owned from this client. Babyping is a wifi based smart baby monitor, with an iOS app suitable for iPhone and iPad. The app used a number of TCP/IP and local area networking technologies to allow the phone to pick up a video stream within the local network. The app allowed for other advanced features such as background audio and connectivity and also alerting the user via push notifications if a baby's crying was detected whilst the phone was muted. Further more the app would allow the camera to be configured to use wifi as opposed to ethernet and also allowed the user to set a password on the camera for additional security. Babyping has won many awards for it's ease of use and innovative solution to the Baby Monitoring industry, with a recent successful sale of that part of the business.
 link: https://itunes.apple.com/gb/app/babyping-video-baby-monitor/id460369332?mt=8
 client-link: http://www.babyping.com
 ---

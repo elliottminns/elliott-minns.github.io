@@ -17,8 +17,9 @@ $(function() {
             if (firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
+            mixpanel.track("Contact Attempted");
             $.ajax({
-                url: "http://forms.brace.io/elliott.minns@me.com", 
+                url: "http://forms.brace.io/elliott.minns@me.com",
                 type: "POST",
                 data: {
                     _replyto: email,
@@ -41,6 +42,7 @@ $(function() {
 
                     //clear all fields
                     $('#contactForm').trigger("reset");
+                    mixpanel.track("Contact Success");
                 },
                 error: function() {
                     // Fail message
@@ -51,6 +53,7 @@ $(function() {
                     $('#success > .alert-danger').append('</div>');
                     //clear all fields
                     $('#contactForm').trigger("reset");
+                    mixpanel.track("Contact Failed");
                 },
             })
         },

@@ -8,7 +8,7 @@ alt: image-alt
 project-date: October 2013 - November 2013
 client: Open Doors Media
 category: iOS Development
-description: What apprenticeship
+description: This project was an individual project completed entirely by myself. The initial conception of the work was to repurpose the successful What Apprenticeship? publication to be used in the context of an iPhone / iPad. Prior to working with myself, there was already an app in use for this however it was merely a newstand app which did little more than display a pdf of the publication on the users device. Whilst working with the client, I decided a fully native experience would be much more positive to the brand and publication and set out to create an app which catered to displaying the relevant information in a much more usable, effect and beautiful way. Open doors media have been so impressed with the work that I have also been asked to work with them for their 2014 - 2015 publication.
 link: https://itunes.apple.com/gb/app/what-apprenticeship-complete/id808995078?mt=8
 client-link: http://www.opendoorsmedia.com
 ---
